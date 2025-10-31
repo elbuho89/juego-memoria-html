@@ -41,7 +41,3 @@ El proyecto está autocontenido en un solo archivo para máxima simplicidad:
 ## 📜 Licencia
 
 Este proyecto está bajo la Licencia MIT. Eres libre de usar, modificar y distribuir el código. Para más detalles, consulta el archivo [LICENSE](/LICENSE) 
-
------
-
-**Nota:** El archivo `LICENSE` ya lo creó GitHub cuando seleccionaste la Licencia MIT.
