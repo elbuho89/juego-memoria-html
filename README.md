@@ -21,7 +21,7 @@ Juego de cartas clásico para encontrar parejas, desarrollado con HTML, CSS mode
 
 Simplemente abre el archivo `[index.html](/index.html)` en cualquier navegador web moderno (Chrome, Firefox, Edge, etc.) para comenzar a jugar.
 
-Si lo estás viendo en **[GitHub Pages](https://github.elbuho89.org/juego-memoria-html)**:
+Si lo estás viendo en **[GitHub Pages](https://elbuho89.github.io/juego-memoria-html/)**:
 
 1.  Haz clic en cualquier carta para voltearla y revelar su emoji.
 2.  Haz clic en una segunda carta.
